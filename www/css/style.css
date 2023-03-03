@@ -1,7 +1,55 @@
 .estilo1 {
-   justify-content: space-around;
+    position: absolute;
+    margin-top: 15%;
+    
+
 }
 .estilo2 {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 55%;
 
+}
+.estilo3 {
+    position: absolute;
+    margin-right: 55%;
+    margin-top: 25%;
+
+}
+.estilo4 {
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 25%;
+}
+body {
+    background-color:#5c0bff;
+    
+    
+}
+.botao {
+    position: absolute;
+    top: 18%;
+    left: 42%;
+    
+    
+
+
+}
+
+.X {
+    position: absolute;
+    top: 9%;
+    left: 47%;
+    color: white;
+}
+
+.Textos {
+    position: absolute;
+    top: 25%;
+    color: white;
+}
+.textinho {
+    color: white;
+    text-align: center;
 }
     
